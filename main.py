@@ -33,6 +33,6 @@ def main():
         print(c.face + ' of ' + c.suit)
     print()
 
-    print('Thanks for playing')
+    print('Thanks for playing, please come again')
 
 main()
